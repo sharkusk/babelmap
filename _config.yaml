@@ -1,6 +1,6 @@
 id_prefix: SQ
 id_strategy: sequential
-seq_next: 187
+seq_next: 188
 seq_width: 4
 tone: dcc
 auto_trailer: true
